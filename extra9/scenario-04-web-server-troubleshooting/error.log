@@ -1,0 +1,4 @@
+[Sun Nov 16 09:01:12.100000 2026] [proxy:error] [pid 4101] app01.example.test: backend connection refused
+[Sun Nov 16 09:04:18.200000 2026] [proxy:error] [pid 4101] app01.example.test: upstream timed out
+[Sun Nov 16 09:06:33.300000 2026] [php:error] [pid 4120] app01.example.test: uncaught exception in session handler
+[Sun Nov 16 09:09:02.400000 2026] [core:warn] [pid 4120] app01.example.test: client request body exceeds configured limit

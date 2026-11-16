@@ -1,0 +1,10 @@
+root:x:0:0:root:/root:/bin/bash
+daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
+www-data:x:33:33:www-data:/var/www:/usr/sbin/nologin
+syslog:x:104:110::/home/syslog:/usr/sbin/nologin
+backup:x:34:34:backup:/var/backups:/usr/sbin/nologin
+alice:x:1001:1001:Alice Smith:/home/alice:/bin/bash
+bob:x:1002:1002:Bob Jones:/home/bob:/bin/bash
+carol:x:1003:1003:Carol Lee:/home/carol:/bin/zsh
+deploy:x:1100:1100:Deployment Account:/home/deploy:/bin/bash
+monitor:x:998:998:Monitoring Service:/var/lib/monitor:/usr/sbin/nologin

@@ -1,0 +1,5 @@
+Filesystem      Inodes  IUsed  IFree IUse% Mounted on
+/dev/sda1       2500000  900000 1600000   36% /
+/dev/sda2       5000000 4300000  700000   86% /var
+/dev/sdb1      12000000 9600000 2400000   80% /srv
+tmpfs           1000000    1200  998800    1% /run

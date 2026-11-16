@@ -1,0 +1,4 @@
+REVIEW: Quarterly account review
+REVIEW: Confirm alice still requires sudo access
+REVIEW: Confirm deploy key ownership with application team
+REVIEW: Disable accounts only after manager approval

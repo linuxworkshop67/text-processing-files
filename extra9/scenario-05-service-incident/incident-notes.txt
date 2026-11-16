@@ -1,0 +1,5 @@
+CRIT: nginx service is failing
+WARN: application queue depth is increasing
+INFO: database connection timeouts observed
+CRIT: node application worker pool unavailable
+WARN: inode utilization elevated on /var and /srv

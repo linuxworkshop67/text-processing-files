@@ -1,0 +1,11 @@
+2026-11-16T10:01:02Z INFO api request completed status=200
+2026-11-16T10:01:08Z WARN queue depth elevated depth=850
+2026-11-16T10:01:12Z ERROR database connection timeout pool=primary
+2026-11-16T10:01:18Z ERROR request failed endpoint=/api/orders
+2026-11-16T10:01:25Z WARN queue depth elevated depth=1020
+2026-11-16T10:01:31Z CRIT worker pool unavailable
+2026-11-16T10:01:40Z ERROR database connection timeout pool=primary
+2026-11-16T10:01:51Z INFO health check completed status=200
+2026-11-16T10:02:03Z WARN retry queue backing up
+2026-11-16T10:02:10Z ERROR request failed endpoint=/api/users
+2026-11-16T10:02:19Z CRIT payment worker stopped

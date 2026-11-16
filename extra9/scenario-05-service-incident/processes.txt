@@ -1,0 +1,8 @@
+USER       PID  %CPU %MEM COMMAND
+root       410  2.1  0.8  systemd
+www-data  1220 18.4  4.2  node
+postgres  1301 12.7 15.8  postgres
+redis     1402  0.4  1.2  redis-server
+www-data  1500  8.9  2.1  nginx
+root      1602 22.3  0.5  backup-worker
+www-data  1701  1.2  0.9  node

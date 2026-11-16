@@ -1,0 +1,7 @@
+4.0G    /var/log
+18G     /var/lib
+7.5G    /var/cache
+2.1G    /var/tmp
+64G     /srv/backups
+210G    /srv/archive
+12G     /srv/uploads
